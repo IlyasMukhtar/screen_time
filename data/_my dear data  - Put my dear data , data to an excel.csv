@@ -1,0 +1,101 @@
+CHECKS,DAYS,DAY OF THE WEEK,TIME,REASONS,DURATION,ESTIMATE
+1,1,Monday,07:15,Habit,Small,< 1 min
+2,1,Monday,07:30,Messages,Medium,1-5 mins
+3,1,Monday,08:05,Work,Medium,1-5 mins
+4,1,Monday,08:45,Boredom,Small,< 1 min
+5,1,Monday,09:20,Work,Large,> 5 mins
+6,1,Monday,10:15,Messages,Small,< 1 min
+7,1,Monday,11:05,Habit,Small,< 1 min
+8,1,Monday,11:40,Social,Medium,1-5 mins
+9,1,Monday,12:30,Social,Large,> 5 mins
+10,1,Monday,13:15,Messages,Medium,1-5 mins
+11,1,Monday,14:10,Work,Medium,1-5 mins
+12,1,Monday,15:25,Boredom,Medium,1-5 mins
+13,1,Monday,16:40,Messages,Large,> 5 mins
+14,1,Monday,17:50,Habit,Small,< 1 min
+15,1,Monday,19:10,Social,Medium,1-5 mins
+16,1,Monday,21:00,Social,Large,> 5 mins
+17,1,Monday,22:30,Habit,Small,< 1 min
+18,2,Tuesday,07:10,Messages,Medium,1-5 mins
+19,2,Tuesday,08:30,Work,Small,< 1 min
+20,2,Tuesday,10:00,Boredom,Small,< 1 min
+21,2,Tuesday,11:15,Habit,Small,< 1 min
+22,2,Tuesday,12:45,Social,Medium,1-5 mins
+23,2,Tuesday,14:20,Work,Medium,1-5 mins
+24,2,Tuesday,16:05,Messages,Medium,1-5 mins
+25,2,Tuesday,18:30,Boredom,Medium,1-5 mins
+26,2,Tuesday,21:10,Social,Large,> 5 mins
+27,2,Tuesday,22:40,Habit,Small,< 1 min
+28,3,Wednesday,07:20,Messages,Small,< 1 min
+29,3,Wednesday,08:15,Work,Medium,1-5 mins
+30,3,Wednesday,09:00,Habit,Small,< 1 min
+31,3,Wednesday,10:20,Work,Small,< 1 min
+32,3,Wednesday,11:45,Boredom,Medium,1-5 mins
+33,3,Wednesday,12:30,Social,Large,> 5 mins
+34,3,Wednesday,13:10,Messages,Medium,1-5 mins
+35,3,Wednesday,14:00,Work,Medium,1-5 mins
+36,3,Wednesday,15:15,Habit,Small,< 1 min
+37,3,Wednesday,16:30,Boredom,Small,< 1 min
+38,3,Wednesday,17:45,Messages,Medium,1-5 mins
+39,3,Wednesday,18:50,Social,Medium,1-5 mins
+40,3,Wednesday,20:15,Boredom,Large,> 5 mins
+41,3,Wednesday,21:30,Messages,Large,> 5 mins
+42,3,Wednesday,23:05,Habit,Small,< 1 min
+43,4,Thursday,07:05,Work,Medium,1-5 mins
+44,4,Thursday,08:10,Messages,Small,< 1 min
+45,4,Thursday,09:30,Work,Large,> 5 mins
+46,4,Thursday,11:00,Boredom,Medium,1-5 mins
+47,4,Thursday,12:15,Habit,Small,< 1 min
+48,4,Thursday,13:00,Social,Medium,1-5 mins
+49,4,Thursday,14:25,Work,Small,< 1 min
+50,4,Thursday,15:40,Messages,Medium,1-5 mins
+51,4,Thursday,17:00,Boredom,Small,< 1 min
+52,4,Thursday,18:15,Social,Large,> 5 mins
+53,4,Thursday,20:00,Messages,Small,< 1 min
+54,4,Thursday,21:45,Habit,Small,< 1 min
+55,4,Thursday,22:30,Social,Large,> 5 mins
+56,5,Friday,07:45,Messages,Medium,1-5 mins
+57,5,Friday,08:50,Work,Medium,1-5 mins
+58,5,Friday,10:10,Habit,Small,< 1 min
+59,5,Friday,11:20,Work,Small,< 1 min
+60,5,Friday,12:35,Boredom,Medium,1-5 mins
+61,5,Friday,13:40,Social,Medium,1-5 mins
+62,5,Friday,14:50,Messages,Small,< 1 min
+63,5,Friday,15:30,Work,Medium,1-5 mins
+64,5,Friday,16:15,Boredom,Small,< 1 min
+65,5,Friday,17:20,Messages,Medium,1-5 mins
+66,5,Friday,18:40,Social,Large,> 5 mins
+67,5,Friday,19:50,Habit,Medium,1-5 mins
+68,5,Friday,21:10,Social,Medium,1-5 mins
+69,5,Friday,22:00,Messages,Large,> 5 mins
+70,5,Friday,23:15,Habit,Small,< 1 min
+71,6,Saturday,08:15,Habit,Small,< 1 min
+72,6,Saturday,08:50,Messages,Medium,1-5 mins
+73,6,Saturday,09:15,Social,Medium,1-5 mins
+74,6,Saturday,09:45,Habit,Small,< 1 min
+75,6,Saturday,10:05,Boredom,Medium,1-5 mins
+76,6,Saturday,10:30,Messages,Medium,1-5 mins
+77,6,Saturday,11:45,Social,Large,> 5 mins
+78,6,Saturday,13:00,Boredom,Small,< 1 min
+79,6,Saturday,14:15,Habit,Small,< 1 min
+80,6,Saturday,15:30,Social,Medium,1-5 mins
+81,6,Saturday,16:45,Messages,Large,> 5 mins
+82,6,Saturday,18:00,Boredom,Medium,1-5 mins
+83,6,Saturday,19:30,Social,Large,> 5 mins
+84,6,Saturday,21:00,Messages,Medium,1-5 mins
+85,6,Saturday,22:15,Habit,Small,< 1 min
+86,6,Saturday,23:20,Social,Large,> 5 mins
+87,7,Sunday,08:30,Habit,Small,< 1 min
+88,7,Sunday,09:15,Messages,Small,< 1 min
+89,7,Sunday,10:45,Boredom,Medium,1-5 mins
+90,7,Sunday,12:00,Social,Large,> 5 mins
+91,7,Sunday,13:30,Messages,Medium,1-5 mins
+92,7,Sunday,14:40,Habit,Small,< 1 min
+93,7,Sunday,15:50,Boredom,Small,< 1 min
+94,7,Sunday,17:00,Social,Medium,1-5 mins
+95,7,Sunday,18:15,Work,Small,< 1 min
+96,7,Sunday,19:20,Messages,Medium,1-5 mins
+97,7,Sunday,20:30,Boredom,Large,> 5 mins
+98,7,Sunday,21:40,Social,Large,> 5 mins
+99,7,Sunday,22:15,Messages,Small,< 1 min
+100,7,Sunday,23:00,Habit,Small,< 1 min
